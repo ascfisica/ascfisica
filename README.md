@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ascfisica
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning html, java script, css
+- 🌱 I’m currently learning HTML5, JavaScript, CSS3
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me helping
 
